@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Author: Amr Hamcho
+using System;
 using System.Collections.Generic;
 namespace Hada
 {
