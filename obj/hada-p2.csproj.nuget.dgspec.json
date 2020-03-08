@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/xxxhamcho/Desktop/school/sixth_sem/advanced_software_development/hada-p2/hada-p2.csproj": {}
+  },
+  "projects": {
+    "/Users/xxxhamcho/Desktop/school/sixth_sem/advanced_software_development/hada-p2/hada-p2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xxxhamcho/Desktop/school/sixth_sem/advanced_software_development/hada-p2/hada-p2.csproj",
+        "projectName": "hada-p2",
+        "projectPath": "/Users/xxxhamcho/Desktop/school/sixth_sem/advanced_software_development/hada-p2/hada-p2.csproj",
+        "packagesPath": "/Users/xxxhamcho/.nuget/packages/",
+        "outputPath": "/Users/xxxhamcho/Desktop/school/sixth_sem/advanced_software_development/hada-p2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xxxhamcho/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
