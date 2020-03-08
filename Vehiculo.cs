@@ -37,7 +37,7 @@ namespace Hada
 
         private int _velocidad, _temperatura​, _combustible​;
 
-        private int velocidad
+        public int velocidad
         {
             get
             {
@@ -66,7 +66,7 @@ namespace Hada
 
 
 
-        private int temperatura
+        public int temperatura
         {
             get
             {
@@ -89,7 +89,7 @@ namespace Hada
         }
 
 
-        private int combustible
+        public int combustible
         {
             get
             {
